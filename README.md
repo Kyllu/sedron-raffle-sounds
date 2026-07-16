@@ -14,8 +14,12 @@ Nie wymaga dostępu do kodu strony — wszystko dzieje się lokalnie w Twojej pr
 ## Instalacja
 
 1. Zainstaluj rozszerzenie **Tampermonkey** (Chrome / Edge / Brave / Firefox) z oficjalnego sklepu przeglądarki.
-2. Otwórz plik `sedron-raffle-sounds.user.js` — najprościej: przeciągnij go na kartę przeglądarki, albo w panelu Tampermonkey wybierz **Utwórz nowy skrypt**, wklej całą zawartość pliku i zapisz (Ctrl+S).
+2. Otwórz ten link w przeglądarce:
+   **➡️ [Zainstaluj skrypt](https://raw.githubusercontent.com/Kyllu/sedron-raffle-sounds/main/sedron-raffle-sounds.user.js)**
+   Jeśli masz już Tampermonkey, **prawie samo się zainstaluje** — pokaże się ekran instalacji, kliknij **Zainstaluj**. Dzięki instalacji z tego linku skrypt **aktualizuje się sam**.
 3. Wejdź na `https://raffle.sedron.pl/`. W prawym dolnym rogu pojawi się przycisk **🔊** — to nakładka.
+
+> Gdyby link otworzył się jako zwykły tekst zamiast ekranu instalacji: skopiuj całą zawartość, w Tampermonkey wybierz **Utwórz nowy skrypt**, wklej i zapisz (Ctrl+S).
 
 ## Obsługa
 
