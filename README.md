@@ -56,5 +56,10 @@ Nakładka **nie zadziała** jako „Browser Source" w OBS (OBS nie ładuje rozsz
 ## Pomysły na później (v2)
 
 - Większa biblioteka dźwięków, tryb ciemny/jasny panelu, skróty klawiszowe.
-- Auto‑aktualizacja przez `@updateURL`/`@downloadURL` (wymaga hostowania pliku, np. na GitHub/GreasyFork) — ułatwia dzielenie się z innymi streamerami.
 - Wersja jako pełne rozszerzenie (sklep Chrome) dla instalacji jednym kliknięciem.
+
+Skrypt ma już włączoną **auto‑aktualizację** (`@updateURL`/`@downloadURL` → `main` tego repo) — instaluj z linku raw, a poprawki podciągną się same.
+
+## Licencja
+
+MIT — patrz [LICENSE](LICENSE). Możesz swobodnie używać, modyfikować i udostępniać.
