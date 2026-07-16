@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Sedron Kick Raffle — Sound Overlay
-// @namespace    https://github.com/kyllu88/sedron-raffle-sounds
+// @namespace    https://github.com/Kyllu/sedron-raffle-sounds
 // @version      1.0.2
 // @description  Dźwięk napięcia podczas losowania + fanfara przy zwycięzcy dla raffle.sedron.pl (koło i lista). Wbudowana biblioteka + własne pliki.
 // @author       kyllu88
@@ -10,8 +10,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_addStyle
-// @updateURL    https://raw.githubusercontent.com/kyllu88/sedron-raffle-sounds/main/sedron-raffle-sounds.user.js
-// @downloadURL  https://raw.githubusercontent.com/kyllu88/sedron-raffle-sounds/main/sedron-raffle-sounds.user.js
+// @updateURL    https://raw.githubusercontent.com/Kyllu/sedron-raffle-sounds/main/sedron-raffle-sounds.user.js
+// @downloadURL  https://raw.githubusercontent.com/Kyllu/sedron-raffle-sounds/main/sedron-raffle-sounds.user.js
 // ==/UserScript==
 
 /*
